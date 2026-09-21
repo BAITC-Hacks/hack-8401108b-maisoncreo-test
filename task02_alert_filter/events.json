@@ -1,0 +1,11 @@
+[
+  {"level": "critical", "msg": "disk 90%"},
+  {"level": "info", "msg": "user login"},
+  {"level": "info", "msg": "cpu 40%"},
+  {"level": "critical", "msg": "payment failed"},
+  {"level": "info", "msg": "heartbeat"},
+  {"level": "critical", "msg": "db timeout"},
+  {"level": "warn", "msg": "cache miss"},
+  {"level": "info", "msg": "deploy ok"}
+]
+
